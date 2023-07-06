@@ -1,0 +1,15 @@
+img{
+    height: 500px;
+    width: 350px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+}
